@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\전진영\documents\visual studio 2015\projects\최대빵\최대빵\main.c(8): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\최대빵\최대빵\main.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\최대빵\최대빵\main.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  최대빵.vcxproj -> c:\users\전진영\documents\visual studio 2015\Projects\최대빵\Debug\최대빵.exe

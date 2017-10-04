@@ -1,0 +1,15 @@
+﻿  도로만들기.c
+c:\users\전진영\documents\visual studio 2015\projects\자격시험3\자격시험3\도로만들기.c(36): warning C4013: 'diagonal'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\전진영\documents\visual studio 2015\projects\자격시험3\자격시험3\도로만들기.c(17): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\자격시험3\자격시험3\도로만들기.c(19): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(396): note: 'setbuf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\자격시험3\자격시험3\도로만들기.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\자격시험3\자격시험3\도로만들기.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\자격시험3\자격시험3\도로만들기.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\자격시험3\자격시험3\도로만들기.c(91): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\전진영\documents\visual studio 2015\projects\자격시험3\자격시험3\도로만들기.c(152): warning C4716: 'diagonal': 값을 반환해야 합니다.
+  자격시험3.vcxproj -> C:\Users\전진영\Documents\Visual Studio 2015\Projects\자격시험3\Debug\자격시험3.exe

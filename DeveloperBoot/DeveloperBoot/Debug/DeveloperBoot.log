@@ -1,0 +1,21 @@
+﻿  boot.c
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(21): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(22): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(396): note: 'setbuf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(33): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(17): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(17): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(16): warning C4101: 'tc' :참조되지 않은 지역 변수입니다.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(17): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(17): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(17): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+c:\users\전진영\documents\visual studio 2015\projects\developerboot\developerboot\boot.c(17): warning C4101: 'o' :참조되지 않은 지역 변수입니다.
+  DeveloperBoot.vcxproj -> c:\users\전진영\documents\visual studio 2015\Projects\DeveloperBoot\Debug\DeveloperBoot.exe
